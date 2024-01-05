@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
+  font-family: 'League Spartan', sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 64px;
+  color: #222;
+}
+
+h2 {
+  font-size: 46px;
+  line-height: 54px;
+  color: #222;
+}
+
+h4 {
+  font-size: 20px;
+  color: #222;
+}
+
+h6 {
+  font-weight: 700;
+  line-height: 12px;
+}
+
+p {
+  font-size: 16px;
+  color: #465b52;
+}
+
+.section-p1 {
+  padding: 40px 80px;
+}
+.section-p11 {
+  padding: 40px 80px;
+  
+}
+
+.section-m1 {
+  margin: 40px 0;
+}
+
+button.normal {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 15px 30px;
+  color: black;
+  background-color: #fff;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+button.white {
+  font-size: 13px;
+  font-weight: 600;
+  padding: 11px 18px;
+  color: #fff;
+  background-color: transparent;
+  border: 1px solid #fff;
+  outline: none;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+body {
+  width: 100%;
+}
+
+@media (max-width: 500px) {
+  .section-p11 {
+    padding: 40px 15px;
+  }
+}
+@media (max-width: 899px) {
+  .section-p11 {
+    padding: 40px 25px;
+  }
+}
+
+
+
+/*
+clicked add to cart
+*/
+.cartAdd {
+  position: relative;
+  
+}
+.addStyle {
+  display: none;
+}
+.addedToTheClass {
+  display: flex;
+  position: absolute;
+  right: 0;
+  bottom: -40px;
+  padding: 5px 10px;
+  font-size: 12px;
+  background-color: #088;
+  border-radius: 10px;
+  color: white;
+
+}

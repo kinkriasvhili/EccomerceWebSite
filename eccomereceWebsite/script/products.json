@@ -1,0 +1,212 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Gildan Ultra Cotton T-shirt",
+        "description": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton. This classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder, and a seamless double-needle collar, it offers it all in the ultimate head-turning package.",
+        "price": 120,
+        "rating": 4.5,
+        "image": { "fields": { "file": { "url": "img/products/f1.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "nike",
+        "gender": "male"
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Comfort Fit Cotton Tee",
+        "description": "The Comfort Fit Cotton Tee is crafted from soft cotton fabric, providing a comfortable and relaxed fit. With its timeless design and quality construction, it's a perfect choice for casual wear.",
+        "price": 65,
+        "rating": 3,
+        "image": { "fields": { "file": { "url": "img/products/f2.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "adidas",
+        "gender": "male"
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Classic Preshrunk Jersey Shirt",
+        "description": "Step into the timeless elegance of the Classic Preshrunk Jersey Shirt. Made from high-quality fabric, this shirt provides a luxurious feel and a perfect fit. The striking design adds a touch of sophistication to your wardrobe.",
+        "price": 150,
+        "rating": 5,
+        "image": { "fields": { "file": { "url": "img/products/f3.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "prada",
+        "gender": "male"
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Essential Starry Night T-shirt",
+        "description": "The Essential Starry Night T-shirt is a must-have for every wardrobe. Its soft fabric and unique design make it perfect for both casual and semi-formal occasions. Stand out with this stylish and comfortable piece.",
+        "price": 90,
+        "rating": 2.5,
+        "image": { "fields": { "file": { "url": "img/products/f4.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "nike",
+        "gender": "male"
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Galactic Explorer Tee",
+        "description": "Embark on a style journey with the Galactic Explorer Tee. The shirt features a bold design and high-quality fabric for maximum comfort. Elevate your fashion game with this eye-catching piece.",
+        "price": 180,
+        "rating": 4,
+        "image": { "fields": { "file": { "url": "img/products/f5.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "adidas",
+        "gender": "male"
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Astronomy Bliss Shirt",
+        "description": "Experience pure bliss with the Astronomy Bliss Shirt. The lightweight fabric ensures a comfortable fit, while the unique design adds a touch of elegance. This shirt is a perfect blend of style and comfort.",
+        "price": 50,
+        "rating": 1.5,
+        "image": { "fields": { "file": { "url": "img/products/f6.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "prada",
+        "gender": "male"
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Nebula Dream Trouser",
+        "description": "Dream in style with the Nebula Dream T-shirt. The shirt's dreamy design and soft fabric create a perfect combination. Upgrade your wardrobe with this comfortable and chic piece.",
+        "price": 110,
+        "rating": 3.5,
+        "image": { "fields": { "file": { "url": "img/products/f7.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "nike",
+        "gender": "male"
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Galaxy Voyager Tee",
+        "description": "Embark on a cosmic journey with the Galaxy Voyager Tee. The shirt's intricate design and premium fabric make it a standout choice. Elevate your style with this celestial-inspired piece.",
+        "price": 200,
+        "rating": 5,
+        "image": { "fields": { "file": { "url": "img/products/f8.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "adidas",
+        "gender": "male"
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Nebula Blast T-shirt",
+        "description": "Experience a blast of style with the Nebula Blast T-shirt. The shirt's dynamic design and comfortable fabric make it a wardrobe essential. Make a statement with this vibrant and trendy piece.",
+        "price": 29,
+        "rating": 4,
+        "image": { "fields": { "file": { "url": "img/products/n1.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "prada",
+        "gender": "female"
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Galactic Explorer Tee",
+        "description": "Explore new fashion heights with the Galactic Explorer Tee. The shirt's modern design and high-quality fabric ensure a stylish and comfortable experience. Elevate your wardrobe with this versatile piece.",
+        "price": 19,
+        "rating": 4.5,
+        "image": { "fields": { "file": { "url": "img/products/n2.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "nike",
+        "gender": "female"
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Astro Adventure trouser",
+        "description": "Embark on a celestial adventure with the Astro Adventure Shirt. The shirt's adventurous design and soft fabric make it a go-to choice. Add a touch of excitement to your wardrobe with this stylish piece.",
+        "price": 329,
+        "rating": 3.5,
+        "image": { "fields": { "file": { "url": "img/products/n3.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "adidas",
+        "gender": "female"
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Cosmic Dream T-shirt",
+        "description": "Dream in cosmic style with the Cosmic Dream T-shirt. The shirt's dreamy design and comfortable fabric make it an essential piece. Elevate your relaxation game with this trendy and cozy tee.",
+        "price": 129,
+        "rating": 3,
+        "image": { "fields": { "file": { "url": "img/products/n4.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "prada",
+        "gender": "female"
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Starry Night Tee",
+        "description": "Experience the magic of the night with the Starry Night Tee. The shirt's enchanting design and soft fabric create a perfect combination. Embrace the beauty of the night sky with this stylish and comfortable piece.",
+        "price": 89,
+        "rating": 2.5,
+        "image": { "fields": { "file": { "url": "img/products/n5.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "nike",
+        "gender": "female"
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Astronomy Bliss Shirt",
+        "description": "Indulge in the bliss of astronomy with the Astronomy Bliss Shirt. The lightweight fabric ensures a comfortable fit, while the unique design adds a touch of elegance. This shirt is a perfect blend of style and tranquility.",
+        "price": 79,
+        "rating": 1.5,
+        "image": { "fields": { "file": { "url": "img/products/n6.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "adidas",
+        "gender": "female"
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Nebula Explorer T-shirt",
+        "description": "Embark on a journey of exploration with the Nebula Explorer T-shirt. The shirt's captivating design and soft fabric make it a versatile choice. Discover new fashion horizons with this trendy and comfortable tee.",
+        "price": 169,
+        "rating": 3,
+        "image": { "fields": { "file": { "url": "img/products/n7.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "prada",
+        "gender": "female"
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Galaxy Voyager Tee",
+        "description": "Voyage through the galaxy in style with the Galaxy Voyager Tee. The shirt's intricate design and premium fabric make it a standout choice. Elevate your fashion journey with this celestial-inspired piece.",
+        "price": 80,
+        "rating": 4,
+        "image": { "fields": { "file": { "url": "img/products/n8.jpg" } } },
+        "size": ["Small", "Medium", "Large"],
+        "brand": "adidas",
+        "gender": "female"
+      }
+    }
+ ]
+}

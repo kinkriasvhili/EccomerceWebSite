@@ -1,0 +1,112 @@
+#hero {
+  background-image: url("../img/hero4.png");
+  height: 90vh;
+  width: 100%;
+  background-position: top 0 right 0;
+  background-size: cover;
+  display: flex;
+  padding: 0 80px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+}
+#hero h4 {
+  padding-bottom: 15px;
+}
+#hero h1 {
+  color: #088178;
+}
+#hero button {
+  margin-top: 30px;
+  background-image: url('../img/button.png');
+  background-color: transparent;
+  border: none;
+  color: #088178;
+  padding: 14px 80px 14px 65px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+
+/*feature*/
+#feature {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+#feature .fe-container {
+  width: 180px;
+  text-align: center;
+  padding: 25px 15px;
+  box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+  border: 1px solid #cce7d0;
+  border-radius: 4px;
+  margin: 15px 0;
+  
+}
+#feature .fe-container img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+#feature .fe-container h6 {
+  display: inline-block;
+  padding: 9px 8px 6px 8px;
+  line-height: 1;
+  border-radius: 4px;
+  color: #088178;
+  background-color: #fddde4;
+}
+
+#feature .fe-container:nth-child(2) h6{
+  background-color: #cdebbc;
+}
+#feature .fe-container:nth-child(3) h6{
+  background-color: #d138f2;
+}
+#feature .fe-container:nth-child(4) h6{
+  background-color: #cdd4f8;
+}
+#feature .fe-container:nth-child(5) h6{
+  background-color: #f6bdf6;
+}
+#feature .fe-container:nth-child(6) h6{
+  background-color: #fff2e5;
+}
+
+@media (max-width: 799px) {
+  .section-p1 {
+    padding: 40px 40px;
+  }
+  #feature {
+    justify-content: center;
+    gap: 15px;
+  }
+}
+
+@media (max-width: 999px) {
+  #hero {
+    height: 70vh;
+    background-position: top 30% right 30%;
+    padding: 0 80px;
+  }
+  
+}
+
+@media (max-width: 559px) {
+  .section-p1 {
+    padding: 30px 0;
+  }
+  #hero {
+    background-position: 55%;
+    padding: 0 20px;
+  }
+  #feature .fe-container {
+    width: 155px;
+    margin: 0 0 15px 0;
+    
+  }
+}
